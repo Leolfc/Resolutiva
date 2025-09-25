@@ -26,10 +26,14 @@
             margin: 0 auto;
             padding: 0 20px;
         }
+        .img-logo{
+            max-width: 100%;
+            border-radius: 8px;
+        }
         
         /* Header */
         header {
-            background-color: #FFFFFF;
+            background-color: #fcf8f8;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             position: fixed;
             width: 100%;
@@ -39,7 +43,7 @@
         
         .header-container {
             display: flex;
-            justify-content: space-between;
+            justify-content:space-between;
             align-items: center;
             padding: 15px 0;
         }
