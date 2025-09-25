@@ -30,3 +30,8 @@
                 header.style.boxShadow = 'none';
             }
         });
+
+
+        const a = document.querySelector('#link-contato')
+
+        
